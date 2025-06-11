@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/Wraith.dir/link.d CMakeFiles/Wraith.dir/src/Wraith.cpp.o CMakeFiles/Wraith.dir/src/App.cpp.o CMakeFiles/Wraith.dir/src/Window.cpp.o -o Wraith  dependencies/glad/libglad.a dependencies/glfw-3.4/src/libglfw3.a /usr/lib/librt.a -lm -ldl

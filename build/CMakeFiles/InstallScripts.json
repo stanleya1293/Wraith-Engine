@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/arden/Projects/Wraith-Engine/build/cmake_install.cmake",
+		"/home/arden/Projects/Wraith-Engine/build/dependencies/glfw-3.4/cmake_install.cmake",
+		"/home/arden/Projects/Wraith-Engine/build/dependencies/glfw-3.4/src/cmake_install.cmake",
+		"/home/arden/Projects/Wraith-Engine/build/dependencies/glfw-3.4/docs/cmake_install.cmake",
+		"/home/arden/Projects/Wraith-Engine/build/dependencies/glad/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
